@@ -1,3 +1,4 @@
+'aku',
 'saya',
 'mau',
 'ingin',
